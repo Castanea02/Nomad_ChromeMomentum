@@ -1,16 +1,3 @@
-body {
-  background-color: beige;
-}
-
-h1 {
-  color: cornflowerblue;
-  transition: color 0.5s ease-in-out;
-}
-
-.active {
-  color: tomato;
-}
-
-.my-font {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+.hidden {
+  display: none;
 }
